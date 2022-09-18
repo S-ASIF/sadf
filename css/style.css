@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+/* Header part Start*/
+#search-btn{
+    background-color: #e8631c;
+    border: none;
+}
+#search-btn:active{
+    box-shadow: 0px 0px 10px 0px #e8631c;
+}
+.hero-part{
+    background: url(../image/background-image.png) no-repeat center;
+    background-size: cover;
+    padding:  0px;
+}
+
+#hero-btn{
+    background-color:#e8631c;
+    border: none;
+    
+}
+#hero-btn:hover {
+    background-color: #e8631c;
+}
+/* Dance Tour part   */
+#dance{
+    background-color: #e8631c;
+    background: url(../image/background-2.png) no-repeat center;
+    background-size: cover;
+}
+#box{
+    background-color: #303030;
+    padding: 0;
+}
+
+
+/* Header part end*/
+
+ /* Price Part Start  */
+    #price{
+        background: url(../image/background-image-3.png) no-repeat center;
+        background-size: cover;
+    }
+    #price-box{
+        background-color: #e8631c;
+        padding: 0;
+        padding-top: 20px;
+        margin-top: 50px;
+    }
+    #price-writting h1{
+        font-weight: bold;
+    }
+    #icon-img{
+        width: 40%;
+        margin: auto;
+    }
+    /* About Part Start  */
+    #about{
+        background: url(../image/background4.png) no-repeat center;
+        background-size: cover;
+    }
+    #about-writting-part{
+        padding: 100px 50px;
+    }
+   #about1{
+    background: url(../image/digne2.png) no-repeat center;
+        background-size: cover;
+   }
+
+
+
+ /* Price Part end   */

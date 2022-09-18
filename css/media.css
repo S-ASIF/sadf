@@ -1,0 +1,43 @@
+/* Dekstop version */
+@media (min-width:768px) and (max-width:1800px){
+    /* Header Part  */
+    .hero-part{
+        padding: 200px 100px;
+    }
+    #hero-btn{
+        width: 50% !important;
+    }
+    /* Dance part Start */
+    .dance-writting-part p{
+        width: 50% !important;
+    }
+    #box-writting p{
+        width: 50% !important;
+        margin: auto;
+    }
+    /* Dance part End */
+    /* Price part Start */
+
+    #price-writting p{
+        width: 80% !important;
+        margin: auto;
+    }
+    #price-writting .btn{
+        width: 50%;
+        margin-top: 20px;
+    }
+    /* Price part End*/
+    /* About Part Start */
+    #about-writting-part{
+        padding-top:20%;
+        padding-left:  50px;   
+        padding-right: 100px;
+    }
+    #about-writting-part h1{
+        font-size: 30px;
+    }
+    #about-image{
+        padding: 0;
+    }
+    /* About Part End */
+}
